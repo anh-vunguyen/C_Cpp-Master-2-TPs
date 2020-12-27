@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601654839 source:d:\workspacec\tp3cpp\image2d.cpp
+	"Image2D.hpp"
+	<bits/stdc++.h>
+
+1601648884 d:\workspacec\tp3cpp\image2d.hpp
+	<stdio.h>
+	<iostream>
+	<tgmath.h>
+
+1601648940 source:d:\workspacec\tp3cpp\main.cpp
+	<iostream>
+	"Image2D.hpp"
+

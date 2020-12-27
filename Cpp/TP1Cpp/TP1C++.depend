@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1600790931 source:d:\workspacec\tp1c++\point3d.cpp
+	"point3D.h"
+
+1600760912 d:\workspacec\tp1c++\point3d.h
+	"point2D.h"
+
+1600790608 d:\workspacec\tp1c++\point2d.h
+	<stdio.h>
+	<iostream>
+	<tgmath.h>
+
+1601047198 source:d:\workspacec\tp1c++\main.cpp
+	<iostream>
+	"point2D.h"
+	"point3D.h"
+	"Image2D.hpp"
+
+1601042799 d:\workspacec\tp1c++\image2d.hpp
+	<stdio.h>
+	<iostream>
+	<tgmath.h>
+
+1601044923 source:d:\workspacec\tp1c++\image2d.cpp
+	"Image2D.hpp"
+
+1601046262 source:d:\workspacec\tp1c++\point2d.cpp
+	"point2D.h"
+	<math.h>
+

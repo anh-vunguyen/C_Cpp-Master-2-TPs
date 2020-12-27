@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1602873653 source:d:\workspacec\tp5_cpp\image2d.cpp
+	"Image2D.hpp"
+	<bits/stdc++.h>
+	<vector>
+	<algorithm>
+	<string>
+
+1602873551 d:\workspacec\tp5_cpp\image2d.hpp
+	<stdio.h>
+	<iostream>
+	<tgmath.h>
+	<vector>
+	<algorithm>
+
+1603724143 source:d:\workspacec\tp5_cpp\main.cpp
+	<iostream>
+	"Image2D.hpp"
+	<vector>
+	<algorithm>
+	<string>
+	"recalage.hpp"
+
+1603654430 d:\workspacec\tp5_cpp\recalage.hpp
+	<stdio.h>
+	<iostream>
+	<tgmath.h>
+	"Image2D.hpp"
+
+1603724757 source:d:\workspacec\tp5_cpp\recalage.cpp
+	"Image2D.hpp"
+	<vector>
+	<algorithm>
+	<string>
+	<math.h>
+	<tgmath.h>
+
